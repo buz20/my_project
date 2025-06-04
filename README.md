@@ -30,6 +30,10 @@
 3. Транзакции свыше 50 000 рублей — высокий риск.
 4. Уровень риска зависит от статуса страны.
 
+## Скриншот дашборда
+
+<img width="1279" alt="image" src="https://github.com/user-attachments/assets/8a2ede6d-de21-420f-ba93-cb79f3b0fe91" />
+
 ## Пример SQL-запросов для определения риска
 ```sql
 -- Для транзакций > 50 000
@@ -57,7 +61,5 @@ CASE
     END
 END
 
-## Скриншот дашборда
 
-<img width="1279" alt="image" src="https://github.com/user-attachments/assets/8a2ede6d-de21-420f-ba93-cb79f3b0fe91" />
 
