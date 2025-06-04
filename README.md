@@ -56,3 +56,8 @@ CASE
       ELSE 'высокий риск'
     END
 END
+
+## Скриншот дашборда
+
+<img width="1279" alt="image" src="https://github.com/user-attachments/assets/8a2ede6d-de21-420f-ba93-cb79f3b0fe91" />
+
